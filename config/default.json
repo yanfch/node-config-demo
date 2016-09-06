@@ -1,8 +1,8 @@
 {
   "Wechat": {
     "base": {
-      "appid": "wx087b1f7abb8ebf5be",
-      "appsecret": "8545543c4155226b32719e4df9b1e6ba",
+      "appid": "xxxxxxxxxxxxxxxxx",
+      "appsecret": "xxxxxxxxxxxxxxxx",
       "sessionSecret": "abcdefg",
       "authCookieName": "website"
     }
